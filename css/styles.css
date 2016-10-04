@@ -1,0 +1,25 @@
+.box {
+  padding: 0px 15px;
+  margin-top: 20px;
+  margin-right: 300px;
+  border: 2px solid blue; }
+
+.files, .mail, .cloud, .sign-out {
+  background-color: #56585d;
+  color: white; }
+
+.files:hover, .mail:hover, .cloud:hover, .sign-out:hover {
+  background-color: #83a92f;
+  color: black; }
+
+.fa {
+  font-size: 20px;
+  color: white; }
+
+.text {
+  font-size: 18px; }
+
+.number {
+  font-size: 18px; }
+
+/*# sourceMappingURL=styles.css.map */
